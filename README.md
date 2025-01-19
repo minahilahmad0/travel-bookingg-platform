@@ -233,21 +233,3 @@ Using tools like Postman or `curl`, test individual services:
    curl -X POST -H "Content-Type: application/json" -d '{"message": "Booking Successful!"}' http://localhost:5003/notify
    ```
 
----
-
-## **Future Enhancements**
-- Add user authentication.
-- Implement booking history in the database.
-- Add unit and integration tests.
-- Enable multi-language support.
-
----
-
-## **Contributors**
-- **[Your Name]**
-
----
-
-## **License**
-This project is licensed under the MIT License.
-
