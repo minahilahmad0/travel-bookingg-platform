@@ -29,8 +29,7 @@ travel-booking-platform/
 │   ├── app.js
 │   └── Dockerfile
 ├── docker-compose.yml
-├── output.jpg
-└── README.md
+
 ```
 
 ---
