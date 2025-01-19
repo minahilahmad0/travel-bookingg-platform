@@ -50,7 +50,7 @@ This will:
 - Set up the PostgreSQL database.
 - Serve the frontend via an NGINX container.
 
-### **4. Access the Application**
+### **3. Access the Application**
 - Frontend: [http://localhost:8080](http://localhost:8080)
 - Booking API: [http://localhost:5001](http://localhost:5001)
 - Payment API: [http://localhost:5002](http://localhost:5002)
